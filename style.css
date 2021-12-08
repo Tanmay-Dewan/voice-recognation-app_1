@@ -1,0 +1,37 @@
+body{
+    background-color: purple;
+}
+.header_div
+{
+    background-color:violet;
+}
+.header_div h2{
+    color: gold;
+    font-family: fantasy;
+    font-weight: 200;
+}
+.header_div p
+{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main_div button
+{
+    margin-top: 20px;
+}
+#result_label
+{
+    color: blue;
+}
+.copy_right_footer
+{
+    position: fixed;
+    text-align: center;
+    color:seagreen;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color:crimson;
+    line-height: 3;
+    font-weight: 600;
+}
